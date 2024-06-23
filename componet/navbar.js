@@ -115,17 +115,12 @@ const navbar = () => {
   <div>Hair</div>
   <div>Makeup</div>
   <div>Bath & Body</div>
-  <div>Fragrance</div>
-  <div>Self Care</div>
-  <div>Tools</div>
-  <div>New & Trending</div>
-  <div>Build a Routine</div>
   <div id="salariya">Advice
     <div class="mydrop" id="saledrop">
-      <div><a href="Skincare.html">Skin care</a></div>
-      <div><a href="Makeup.html">Makeup</a></div>
-      <div><a href="Haircare.html">Haircare</a></div>
-      <div><a href="Body.html">Body</a></div>
+      <div><a href="shop1.html">Skin care</a></div>
+      <div><a href="shop3.html">Makeup</a></div>
+      <div><a href="shop2.html">Haircare</a></div>
+      <div><a href="shop4.html">Body</a></div>
       <div>Tip & Advice</div>
       <div>Beuaty Center</div>
       <div>Free Beauty Consulataions</div>
